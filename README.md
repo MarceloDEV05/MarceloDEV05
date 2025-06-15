@@ -5,7 +5,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-marcelocardoso.netlify.app)
 
-[![Marcelo Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloDev05&theme=chartreuse-dark)]()
 
 ### Tecnologias que utilizo
 
