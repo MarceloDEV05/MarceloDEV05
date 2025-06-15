@@ -1,6 +1,5 @@
 ### Olá! Eu sou Marcelo Cardoso ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/MarceloDev05)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcelocardoso-portfolio.vercel.app/)
 
